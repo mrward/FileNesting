@@ -8,5 +8,5 @@
 [assembly:AddinName ("FileNesting")]
 [assembly:AddinDescription ("Adds File Nesting support.")]
 
-[assembly:AddinDependency ("Core", "6.0")]
-[assembly:AddinDependency ("Ide", "6.0")]
+[assembly:AddinDependency ("Core", "7.0")]
+[assembly:AddinDependency ("Ide", "7.0")]
