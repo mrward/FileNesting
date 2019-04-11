@@ -2,7 +2,7 @@
 
 [assembly:Addin ("FileNesting",
 	Namespace = "MonoDevelop",
-	Version = "0.1.1",
+	Version = "0.1.2",
 	Category = "IDE extensions")]
 
 [assembly:AddinName ("FileNesting")]
